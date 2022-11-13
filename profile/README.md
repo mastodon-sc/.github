@@ -1,4 +1,4 @@
-<img src="https://github.com/mastodon-sc/mastodon-documentation/tree/master/docs/imgs/Mastodon-logo_jy-01.png width="250" align="center">
+<img src="https://github.com/mastodon-sc/mastodon-documentation/blob/1bb4e313a01a310bd29478842df1405d220fad2b/docs/imgs/Mastodon-logo_jy-01.png" width="250" align="center">
 
 # About Mastodon.
 
