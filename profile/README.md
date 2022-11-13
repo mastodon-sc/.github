@@ -1,4 +1,4 @@
-<img src="https://github.com/mastodon-sc/mastodon-documentation/tree/master/docs/imgs/Mastodon-logo_jy-01.png width="250" align="center">
+<img src="https://github.com/mastodon-sc/mastodon-documentation/blob/1bb4e313a01a310bd29478842df1405d220fad2b/docs/imgs/Mastodon-logo_jy-01.png" width="250" align="center">
 
 # About Mastodon.
 
@@ -17,4 +17,36 @@ The challenges of big data are then met twice: first by dealing with a very larg
 They will make interacting and analyzing the data especially difficult.
 
 **Mastodon** is our effort to provide a tool that can harness these challenges. 
+You can find the user and developer documentation [here](https://mastodon.readthedocs.io/).
 
+This page describes the repositories of this organization and list maintainers and responsibilities.
+
+### Repositories and responsibilities. 
+
+Mastodon tries to offer at the same time 
+- A Java library for manipulating collections and mathematical graphs containing a very large number of objects.
+- A scientific application ('Mastodon') that uses this library to offer Researchers of Life-Sciences a user-friendly tool to perform cell tracking and lineaging in large movies.
+- Several optional modules and contributions that extend the features of the Mastodon application.
+
+This results in having about 10 repositories in this organization, that we list and describe briefly in the  below.
+
+| Name                       | Link                                                      | Description                                                  | Maintainer          | Distribution                       |
+| -------------------------- | --------------------------------------------------------- | ------------------------------------------------------------ | ------------------- | ---------------------------------- |
+| Mastodon-collection        | https://github.com/mastodon-sc/mastodon-collection        | Core Mastodon repository containing the library to manipulate collections containing a large number of objects efficiently. Offers data locality and garbage-collection free programming. Based on the `Trove` library. | TP, JYT, MA         | In the Fiji update site "Mastodon" |
+| Mastodon-graph             | https://github.com/mastodon-sc/mastodon-graph             | A Java library to create and manipulate (mathematical) graphs containing a large number of vertices and edges. Based on Mastodon-collection | TP, JYT, MA         | In the Fiji update site "Mastodon" |
+| Mastodon                   | https://github.com/mastodon-sc/mastodon                   | The main repository for the Mastodon application. Based on Mastodon-collection and Mastodon-graph. | TP, JYT, MA, VU, KS | In the Fiji update site "Mastodon" |
+| Mastodon-tracking          | https://github.com/mastodon-sc/mastodon-tracking          | Automated tracking algorithms for Mastodon                   | TP, JYT             | In the Fiji update site "Mastodon" |
+| Mastodon-selection-creator | https://github.com/mastodon-sc/mastodon-selection-creator | Mastodon plugin to create selections from mathematical expressions. | JYT                 | In the Fiji update site "Mastodon" |
+| Mastodon-ellipsoid-fitting | https://github.com/mastodon-sc/mastodon-ellipsoid-fitting | Mastodon plugin that can robustly fit a 3D ellipsoid on noisy data of _e.g._ nuclei images. | TP, JYT             | In the Fiji update site "Mastodon" |
+| Mastodon-Pasteur           | https://github.com/mastodon-sc/mastodon-pasteur           | Small collection of plugins developed for the research led in the Institut Pasteur, Paris, but of general utility. | JYT                 | In the Fiji update site "Mastodon" |
+| Mastodon-Tomancak          | https://github.com/mastodon-sc/mastodon-tomancak          | Small collection of plugins developed for the research led of Pavel Tomancak, MPI-CBG, Dresden, but of general utility. | TP, VU              | In the Fiji update site "Mastodon" |
+|                            |                                                           |                                                              |                     |                                    |
+|                            |                                                           |                                                              |                     |                                    |
+
+Maintainers:
+
+- TP: Tobias Pietzsch
+- JYT: Jean-Yves Tinevez
+- MA: Matthias Arzt 
+- VU: Vladimír Ulman
+- KS: Ko Sugawara
