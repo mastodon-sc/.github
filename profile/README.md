@@ -56,3 +56,39 @@ Maintainers:
 - MA: Matthias Arzt 
 - VU: Vladimír Ulman
 - KS: Ko Sugawara
+
+# More Documentation
+
+* [Mastodon intro on ImageJ.net](https://imagej.net/plugins/mastodon/)
+* [Mastodon usage guide on readthedocs](https://mastodon.readthedocs.io/en/latest/index.html)
+
+# Community
+
+* If you have questions regarding usage of Mastodon, we invite you to use
+  the [forum on imagesc](https://forum.image.sc/). You may search for Mastodon related topics using the
+  hashtag `#mastodon` or create a new topic.
+
+# Contribute
+
+## Forum
+
+* For questions related to Mastodon development, please use
+  the [zulip chat](https://imagesc.zulipchat.com/#narrow/stream/327470-Mastodon).
+
+## License Agreement
+
+All contributions like will fall under the "BSD 2-Clause (Simplified) License" as described in
+the [LICENSE](LICENSE.txt) file.
+
+## Code formatting
+
+We use the Eclipse code formatter. You can find the configuration
+file [here](https://github.com/scijava/scijava-coding-style/blob/master/src/main/resources/eclipse-formatter-settings/mastodon-coding-style.xml)
+. Please use this formatter for your pull requests.
+
+Users of IntelliJ IDEA can use
+the [Eclipse Code Formatter Plugin](https://plugins.jetbrains.com/plugin/6546-eclipse-code-formatter) to automatically
+format your code.
+
+We recommend to use Auto-Format on Save in your IDE, preferably only on changed lines.
+
