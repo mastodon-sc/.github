@@ -59,7 +59,7 @@ Maintainers:
 
 # More Documentation
 
-* [Mastodon intro on ImageJ.net](https://imagej.net/plugins/mastodon/)
+* [Mastodon intro on ImageJ.net](https://imagej.net/plugins/mastodon)
 * [Mastodon usage guide on readthedocs](https://mastodon.readthedocs.io/en/latest/index.html)
 
 # Community
