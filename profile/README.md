@@ -83,7 +83,7 @@ the [LICENSE](LICENSE.txt) file.
 ## Code formatting
 
 We use the Eclipse code formatter. You can find the configuration
-file [here](https://github.com/scijava/scijava-coding-style/blob/master/src/main/resources/eclipse-formatter-settings/mastodon-coding-style.xml)
+file [here](https://raw.githubusercontent.com/scijava/scijava-coding-style/1dc9f9467cbdfbde8fb8e40379447baa9abb3f68/src/main/resources/eclipse-formatter-settings/mastodon-coding-style.xml)
 . Please use this formatter for your pull requests.
 
 Users of IntelliJ IDEA can use
