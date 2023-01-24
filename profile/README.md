@@ -2,7 +2,7 @@
 
 # About Mastodon.
 
-> :warning: This organization refers to Mastodon: the open-source scientific software for tracking cells and line aging in large microscopy generated in Life-Sciences. It does not refer to Mastodon: the decentralized social network. For the latter, please refer to [https://github.com/mastodon](https://github.com/mastodon)
+> :warning: This organization refers to Mastodon: the open-source scientific software for tracking cells and lineaging in large microscopy images generated in Life-Sciences. It does not refer to Mastodon: the decentralized social network. For the latter, please refer to [https://github.com/mastodon](https://github.com/mastodon)
 
 
 Mastodon is a large-scale tracking and track-editing framework for large, multi-view images, such as the ones that are typically generated in the domain Development Biology or Stem-Cell Biology or Cell Biology.
