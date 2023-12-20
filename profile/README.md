@@ -48,6 +48,7 @@ This results in having about 10 repositories in this organization, that we list 
 | [`mastodon-sciview`](https://github.com/mastodon-sc/mastodon-sciview)                     | Mastodon plugin that starts [sciview](https://github.com/scenerygraphics/sciview) in the same session, and shares and displays image and tracking data directly in it.                                                      | VU                  | Download from repo.                                                                 |
 | [`matlab-mastodon-importer`](https://github.com/mastodon-sc/matlab-mastodon-importer)     | Several MATLAB functions to import Mastodon files into MATLAB.                                                                                                                                                              | JYT                 | Download from repo.                                                                 |
 | [`mastodon-example-data`](https://github.com/mastodon-sc/mastodon-example-data)     | Example data set to demonstrate the Mastodon functionality.                                                                                                                                                              | TP                 | Download from repo.                                                                 |
+| [`mastodon-deep-lineage`](https://github.com/mastodon-sc/mastodon-deep-lineage)     | A collection of plugins to analyse lineages of tracked objects in Mastodon.                                                                                                                                                              | SH                 | In the [Fiji update site](https://imagej.net/update-sites/) "[Mastodon-DeepLineage](https://sites.imagej.net/Mastodon-DeepLineage/)".                                                                 |
 
 Maintainers:
 
@@ -56,6 +57,7 @@ Maintainers:
 - MA: Matthias Arzt 
 - VU: Vladimír Ulman
 - KS: Ko Sugawara
+- SH: Stefan Hahmann
 
 # More Documentation
 
